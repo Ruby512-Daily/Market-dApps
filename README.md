@@ -62,7 +62,6 @@ Please install or have installed the following:
 2. Clone the repo:
 
 ```bash
-  git clone https://gitlab.com/plusblue/marketplace-dapp.git
   cd marketplace-dapp
 ```
 
